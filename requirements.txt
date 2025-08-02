@@ -1,0 +1,6 @@
+streamlit==1.33.0
+google-cloud-aiplatform
+google-cloud-bigquery
+pandas==2.2.2
+db-dtypes==1.2.0
+pyarrow==16.1.0
